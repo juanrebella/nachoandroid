@@ -1,0 +1,182 @@
+#electroweb:hover{
+	 
+}
+
+div#vinculos { 
+    font-family: helvetica;
+    font-size: 20px;
+    letter-spacing: 3px;
+	font-weight:600;
+	background-color:##fff;
+	text-align:center;
+}
+
+.footer{
+	font-family: arial;
+    font-size: 10px;
+    color: black;
+	font-weight: 50;
+	text-align:right;
+}
+
+.prod {
+	border-bottom:1px dashed thick black;
+	padding-left: 100px;
+	padding-right: 100px;
+	padding-top: 20px;
+	margin-left:0px;
+}
+
+#wrapper {
+    width: 900px;
+    margin: 0 auto;
+}
+
+
+
+fieldset#text {
+    font-family: calibri;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;    
+}
+
+
+fieldset#cons {
+    font-family: calibri;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;
+}
+
+div#liscon {
+     margin: 50px;
+    font-size: 20px;    
+}
+
+fieldset#ingmod {
+    font-family: calibri;
+    font-size: 20px;
+    text-align: justify;
+    padding: 20px;     
+}
+
+body {
+	font-size: medium;
+	font-style: italic;
+	font-weight: lighter;
+	font-size: 12px;
+	background-color: lightblue;
+}
+
+.gif {
+	padding-left:320px;
+	padding-top:20px;
+	padding-right:250px;
+	padding-down: 20px;
+	display:inline-block;
+	
+
+}
+	
+p#inicio {
+	text-indent: 50px;
+ 	font-size: normal;
+	font-style: normal;
+	font-size: 15px;
+	padding-left: 150px;
+	padding-right:100px;		
+}
+
+
+
+a:hover {
+    background-color: green;
+}
+
+.social {
+	position: fixed; /* Hacemos que la posición en pantalla sea fija para que siempre se muestre en pantalla*/
+	left: 0; /* Establecemos la barra en la izquierda */
+	top: 200px; /* Bajamos la barra 200px de arriba a abajo */
+	z-index: 2000; /* Utilizamos la propiedad z-index para que no se superponga algún otro elemento como sliders, galerías, etc */
+}
+ 
+	.social ul {
+		list-style: none;
+	}
+ 
+	.social ul li a {
+		display: inline-block;
+		color:#fff;
+		background: #000;
+		padding: 10px 15px;
+		text-decoration: none;
+		-webkit-transition:all 500ms ease;
+		-o-transition:all 500ms ease;
+		transition:all 500ms ease; /* Establecemos una transición a todas las propiedades */
+	}
+ 
+	.social ul li .icon-facebook {background:#3b5998;} /* Establecemos los colores de cada red social, aprovechando su class */
+	.social ul li .icon-twitter {background: #00abf0;}
+	.social ul li .icon-google-drive {background: #d95232;}
+	.social ul li .icon-facebook2 {background: #ae181f;}
+	.social ul li .icon-youtube {background: #666666;}
+ 
+	.social ul li a:hover {
+		background: #000; /* Cambiamos el fondo cuando el usuario pase el mouse */
+		padding: 10px 30px; /* Hacemos mas grande el espacio cuando el usuario pase el mouse */
+	}
+
+
+.container{
+	padding-top:5px;
+	background-color: #66ccff;
+	width: 800px;
+	height:500px;
+	margin-left:auto;
+	margin-right:auto;
+	
+	}
+
+	
+.contenido p{
+	text-decoration: none;
+    color: black; 
+	text-align: center;
+	padding: 10px;
+}
+
+h4 {
+		font-size:25px;
+}
+
+h4:hover {
+    background-color:#ff5522;
+}
+
+.contenido h4 {
+	display:inline;
+	background-color: #ff7700;
+	font-size: 20px;		
+}
+	.nav{
+		float:right;
+		}
+	
+body#otro{
+	background-color: #E49E56;
+}
+	
+/* columnas de parrafo en la pestaña otros */
+
+#columna1, #columna2,#columna3,#columna4 {
+	
+	margin-right:30px;
+	float:left;
+	padding-top:5px;
+	padding-left: 15px;
+	background-color: #66ccff;
+	width: 150px;		
+}
+
+
