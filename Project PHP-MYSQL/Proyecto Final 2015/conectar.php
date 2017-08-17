@@ -12,7 +12,7 @@
 or die("Problemas al tratar de establecer la conexion"); 
 
 
-//Seleccionamos la base de datos 
+//Seleccionamos la base de datos
 
 $bd_sel=mysql_select_db($database_name) or die("Problemas al seleccionar la base de datos"); 
 ?>
