@@ -1,4 +1,4 @@
-<?php 
+﻿<?php 
 	//Datos del servidor y base de datos 
 
 	$server="localhost"; 
