@@ -1,5 +1,6 @@
 # nachoandroid
-Mi primer proyecto de Android
+Welcome to my Github.
 
 
-Prueba del programa SourceTree a través de Github.
+Feel free to take a look and ask.
+
